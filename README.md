@@ -6,13 +6,13 @@ NO CREDENTIALS YET
 
 PLEASE EXCUSE-ME NOT USING ESLINT :)
 
-#INSTALL 
+# INSTALL 
 
 <pre>
 yarn install && yarn dev
 </pre>
 
-#TOOLS
+# TOOLS
 
 
 <ul>
